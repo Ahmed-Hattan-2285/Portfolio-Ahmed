@@ -37,4 +37,4 @@ I'm Ahmed, a computer science graduate with a passion for software development a
 - **GitHub:** [Ahmed Hattan](https://github.com/Ahmed-Hattan-2285)
 - **LinkedIn:** [Ahmed Hattan](https://www.linkedin.com/in/ahmed-hattan-754189316/)
 - **Linktree:** [AhmedHattan](https://linktr.ee/AhmedHattan)
-- **Portfolio:** [PortfolioAhmed](https://ahmed-hattan-2285.github.io/CV-Ahmed/)
+- **Portfolio:** [PortfolioAhmed](https://ahmed-hattan-2285.github.io/Portfolio-Ahmed/)
