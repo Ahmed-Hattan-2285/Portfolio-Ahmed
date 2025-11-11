@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmed Hattan!
 
 🎓 **Computer Science Graduate**  
-💻 **Full-Stack & Flutter Developer**  
+💻 **Full-Stack & React Developer**  
 🎨 **UI/UX Enthusiast**  
 📊 **Database Management**  
 ⚙️ **System Optimization & Technical Support**
@@ -10,25 +10,17 @@
 
 ### 🌟 About Me
 
-I'm Ahmed, a computer science graduate with a passion for software development and design. My expertise lies in full-stack and mobile app development using Flutter, with a strong interest in creating user-friendly, visually engaging interfaces. I also have experience in database management, system optimization, and technical support, making me a versatile addition to any team.
+I'm Ahmed, Recent Computer Science graduate with Hands-on experience in full-stack development with Python, JavaScript, React, Django REST Framework, and PostgreSQL. technical support, and hardware maintenance. Skilled in troubleshooting, system optimization, and team collaboration. Eager to apply technical expertise and analytical skills in software development or cybersecurity to drive innovation and efficiency.
 
 ---
 
 ### 🔧 Technical Skills
 
 - **Programming Languages:** Dart, JavaScript, Python, SQL
-- **Frontend:** Flutter, HTML, CSS, React.js
+- **Frontend:** React, HTML, CSS
 - **Backend:** Node.js, Express.js
-- **Databases:** MySQL, MongoDB, Firebase
+- **Databases:** PostgreSQL, MongoDB, Firebase
 - **Tools:** Git, Docker, Figma
-
----
-
-### 🚀 Current Focus
-
-- Building cross-platform mobile applications with Flutter.
-- Enhancing my skills in backend development and cloud services.
-- Exploring new trends in UI/UX design to improve user experiences.
 
 ---
 
